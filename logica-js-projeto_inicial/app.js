@@ -3,7 +3,7 @@ let numeroMaximo = 10;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 console.log(numeroSecreto);
 let chute;
-let tentativas = 2;
+let tentativas = 110;
 
 //para cada numero alterado
 >>>>>>> origin
