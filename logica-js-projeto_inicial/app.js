@@ -6,7 +6,7 @@ let chute;
 let tentativas = 110;
 
 //para cada numero alterado
->>>>>>> origin
+
 
 // enquanto chute não for igualç ao n.s
 while (chute != numeroSecreto) {
