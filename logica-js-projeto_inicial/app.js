@@ -3,10 +3,10 @@ let numeroMaximo = 10;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 console.log(numeroSecreto);
 let chute;
-let tentativas = 120;
+let tentativas = 2;
 
 //para cada numero alterado
-
+>>>>>>> origin
 
 // enquanto chute não for igualç ao n.s
 while (chute != numeroSecreto) {
