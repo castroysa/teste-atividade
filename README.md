@@ -1,13 +1,12 @@
 <h1 align="center"> TESTE DE APLICAÇÃO DA ATIVIDADE </h1>
 
-![logo](https://github.com/castroysa/teste-atividade/assets/153504160/2f0319a5-e29b-4040-81ec-c0d466739d8c)
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 # Descrição do projeto
-teste de aprendizagem de conte+udo explicado
+teste de aprendizagem de conteúdo explicado
 
 # :hammer: Funcionalidades do projeto
 
@@ -18,4 +17,4 @@ teste de aprendizagem de conte+udo explicado
 # Autores
 
 ' Ysabelle Rocha
-~. Renªe Girresse
+. Renê Girresse
