@@ -10,9 +10,9 @@ teste de aprendizagem de conteúdo explicado
 
 # 🎯: Funcionalidades do projeto
 
-- `Funcionalidade 1`: analisar aprendizagem do conte+udo exposto
-- `Funcionalidade 2`: validar funcionalidade do recurso
-- `Funcionalidade 3`: aprimorar conhecimento
+- `Funcionalidade 1`: Analisar aprendizagem do conteúdo exposto
+- `Funcionalidade 2`: Validar funcionalidade do recurso
+- `Funcionalidade 3`: Aprimorar conhecimento
 
 # Autores
 
