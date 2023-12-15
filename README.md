@@ -8,7 +8,7 @@
 # Descrição do projeto
 teste de aprendizagem de conteúdo explicado
 
-# :hammer: Funcionalidades do projeto
+# 🎯: Funcionalidades do projeto
 
 - `Funcionalidade 1`: analisar aprendizagem do conte+udo exposto
 - `Funcionalidade 2`: validar funcionalidade do recurso
@@ -16,5 +16,6 @@ teste de aprendizagem de conteúdo explicado
 
 # Autores
 
-' Ysabelle Rocha
-. Renê Girresse
+. 🚀 Ysabelle Rocha
+
+. 🚀 Renê Girresse
